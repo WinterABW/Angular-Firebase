@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-5c983": {
+      "hosting": {
+        "angfirebase": [
+          "angular-5c983"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-5c983"
+  }
+}
